@@ -3,5 +3,9 @@
     <declare-styleable name="PieChartView">
         <attr name="cv_source" format="integer"/>
     </declare-styleable>
+    <declare-styleable name="DetailView">
+        <attr name="dv_source" format="integer"/>
+        <attr name="dv_category" format="string"/>
+    </declare-styleable>
 </resources>
 
